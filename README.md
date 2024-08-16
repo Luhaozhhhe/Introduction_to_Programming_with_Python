@@ -3,14 +3,23 @@
 
 ## 课程内容
 WEEK0-Functions, Variables
+
 WEEK1-Conditionals
+
 WEEK2-Loops
+
 WEEK3-Exceptions
+
 WEEK4-Libraries
+
 WEEK5-Unit Tests
+
 WEEK6-File I/O
+
 WEEK7-Regular Expressions
+
 WEEK8-Object-Oriented Programming
+
 WEEK9-Et Cetera
 
 

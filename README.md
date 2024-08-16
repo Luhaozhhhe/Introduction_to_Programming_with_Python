@@ -2,16 +2,16 @@
 在上完大二上学期的Python语言程序设计课后，对于Python编程仍然不是特别熟练，因此准备进一步学习Harvard University的课程
 
 ## 课程内容
-+ WEEK0-Functions, Variables
-+ WEEK1-Conditionals
-+ WEEK2-Loops
-+ WEEK3-Exceptions
-+ WEEK4-Libraries
-+ WEEK5-Unit Tests
-+ WEEK6-File I/O
-+ WEEK7-Regular Expressions
-+ WEEK8-Object-Oriented Programming
-+ WEEK9-Et Cetera
+WEEK0-Functions, Variables
+WEEK1-Conditionals
+WEEK2-Loops
+WEEK3-Exceptions
+WEEK4-Libraries
+WEEK5-Unit Tests
+WEEK6-File I/O
+WEEK7-Regular Expressions
+WEEK8-Object-Oriented Programming
+WEEK9-Et Cetera
 
 
 ## 课程网址
